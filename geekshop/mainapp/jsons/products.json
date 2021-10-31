@@ -1,0 +1,56 @@
+[
+  {
+      "category": "Дом",
+      "name": "Красный стул",
+      "image": "product_images/controll2.jpg",
+      "short_desc": "Уникальный дизайн",
+      "description": "",
+      "price": "3500.00",
+      "quantity": 20
+  },
+  {
+      "category": "Модерн",
+      "name": "Кресло из белой кожи",
+      "image": "product_images/product-21.jpg",
+      "short_desc": "Красивое кресло",
+      "description": "",
+      "price": "6700.00",
+      "quantity": 42
+  },
+  {
+      "category": "Офис",
+      "name": "Лампа-сфера",
+      "image": "product_images/product-1.jpg",
+      "short_desc": "Удобная лампа для офиса",
+      "description": "",
+      "price": "5300.00",
+      "quantity": 23
+  },
+      {
+      "category": "Дом",
+      "name": "Синий стул",
+      "image": "product_images/controll1.jpg",
+      "short_desc": "Уникальный дизайн",
+      "description": "",
+      "price": "8500.00",
+      "quantity": 56
+  },
+  {
+      "category": "Модерн",
+      "name": "Диван",
+      "image": "product_images/product-3-sm.jpg",
+      "short_desc": "Черный диван",
+      "description": "",
+      "price": "16700.00",
+      "quantity": 35
+  },
+  {
+      "category": "Классика",
+      "name": "Часы",
+      "image": "product_images/product-4-sm.jpg",
+      "short_desc": "Настенные часы",
+      "description": "",
+      "price": "2100.00",
+      "quantity": 28
+  }
+]

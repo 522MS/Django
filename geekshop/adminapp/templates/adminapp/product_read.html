@@ -1,0 +1,18 @@
+{% extends 'adminapp/base.html' %}
+{% load static %}
+{% load my_tags %}
+
+{% block content%}
+<div class="card" style="width: 18rem;">
+    <img src="rm -r .git{{ product.image|media_folder_products }}" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">{{product.name}}</h5>
+        <p class="card-text">{{product.short_desc}}</p>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">Цена - {{product.price}} руб.</li>
+        <li class="list-group-item">Колличество - {{product.quantity}} шт.</li>
+        <li class="list-group-item">Категория - {{product.category}}</li>
+    </ul>
+</div>
+{% endblock %}
