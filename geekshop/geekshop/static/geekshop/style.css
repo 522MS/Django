@@ -4,6 +4,10 @@
 	padding: 0;
 }
 
+*, ::after, ::before {
+    box-sizing: content-box;
+}
+
 body {
 	font-family: 'Montserrat', sans-serif;
 }
@@ -17,7 +21,7 @@ html, body {
 }
 
 .container {
-	width: 1366px;
+	max-width: 1366px;
 	margin: 0 auto;
 	min-height: 100%;
 }
@@ -1094,4 +1098,8 @@ td:first-child {
   color: black;
   padding: 8px 16px;
   text-decoration: none;
+}
+
+.form-control{
+    box-sizing: border-box;
 }
