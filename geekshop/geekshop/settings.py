@@ -100,8 +100,8 @@ WSGI_APPLICATION = 'geekshop.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
-        # 'USER': 'postgres',
+        'NAME': 'geekshop',
+        'USER': 'postgres',
         # 'PASSWORD': 'password',
         # 'HOST': 'db.example.com',
         # 'PORT': '5432',
@@ -149,10 +149,11 @@ USE_TZ = False
 
 STATIC_URL = '/static/'
 
-STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, "geekshop", "static"),
-    os.path.join(BASE_DIR, "basketapp", "static"),
-)
+STATIC_ROOT = os.path.join(BASE_DIR, "static"),
+# STATICFILES_DIRS = (
+#     os.path.join(BASE_DIR, "geekshop", "static"),
+#     os.path.join(BASE_DIR, "basketapp", "static"),
+# )
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
