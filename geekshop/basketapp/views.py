@@ -13,7 +13,7 @@ from django.template.loader import render_to_string
 @login_required
 def basket(request):
     if request.user.is_authenticated:
-        basket = Basket.objects.filter(user=request.user)
+        basket = Basket.objects.filter(user=request.user).order_by('product__category').select_related()
 
         context = {
             'basket': basket
