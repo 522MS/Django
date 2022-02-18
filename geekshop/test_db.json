@@ -1,0 +1,1147 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2021-10-09T13:28:02.969",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Basket object (2)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2021-10-09T13:28:06.600",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Basket object (1)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2021-10-09T13:38:11.627",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Basket object (4)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2021-10-09T13:38:14.981",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Basket object (3)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2021-10-18T23:06:33.885",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "admin",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"First name\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2021-10-23T19:57:23.498",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "13",
+      "object_repr": "das",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2021-10-23T20:46:51.763",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "12",
+      "object_repr": "Настенная лампа",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Is deleted\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2021-10-25T03:08:22.424",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "4",
+      "object_repr": "Дом",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Is deleted\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2021-10-25T03:08:39.768",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "4",
+      "object_repr": "Дом",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Is deleted\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2021-10-25T03:08:50.348",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "11",
+      "object_repr": "Лампа",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Is deleted\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2021-10-25T03:09:05.676",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "11",
+      "object_repr": "Лампа",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Is deleted\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2021-10-30T17:28:23.501",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "14",
+      "object_repr": "123",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2021-10-30T17:33:57.426",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "15",
+      "object_repr": "123",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2021-10-30T17:40:37.563",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "16",
+      "object_repr": "123",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2021-10-30T17:41:25.208",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "17",
+      "object_repr": "123",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2021-10-30T17:55:14.811",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "18",
+      "object_repr": "123",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2021-10-30T23:23:33.016",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "19",
+      "object_repr": "12",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2021-10-31T01:42:25.763",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "5",
+      "object_repr": "asd",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2021-10-31T01:54:15.345",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "1",
+      "object_repr": "Классика",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Is deleted\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2021-10-31T01:55:02.204",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "1",
+      "object_repr": "Классика",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2022-01-14T18:21:54.730",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "1234",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2022-01-14T18:21:55.008",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "23",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2022-01-14T18:21:55.169",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2022-01-14T18:21:55.247",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "plll",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2022-01-14T18:21:55.402",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "ember",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2022-01-14T18:21:55.490",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "zxc",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2022-01-14T18:21:55.569",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "django15",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2022-01-14T18:21:55.656",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "sheikh",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2022-01-23T22:30:55.223",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "2",
+      "object_repr": "Текущий заказ: 2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0442\\u0430\\u0442\\u0443\\u0441\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2022-01-23T22:55:08.486",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "11",
+      "object_repr": "Лампа",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u0442\\u043e\\u0432\\u0430\\u0440\\u0430 \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2022-01-23T23:15:40.812",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Красный стул",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u0442\\u043e\\u0432\\u0430\\u0440\\u0430 \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2022-01-28T23:38:04.166",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "4",
+      "object_repr": "Текущий заказ: 4",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2022-01-28T23:38:04.328",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "3",
+      "object_repr": "Текущий заказ: 3",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2022-01-28T23:38:04.462",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "2",
+      "object_repr": "Текущий заказ: 2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2022-01-28T23:38:04.535",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "1",
+      "object_repr": "Текущий заказ: 1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2022-01-28T23:41:13.138",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "10",
+      "object_repr": "Текущий заказ: 10",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2022-01-28T23:41:13.246",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "9",
+      "object_repr": "Текущий заказ: 9",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2022-01-28T23:41:13.337",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "8",
+      "object_repr": "Текущий заказ: 8",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2022-01-28T23:41:13.435",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "7",
+      "object_repr": "Текущий заказ: 7",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2022-01-28T23:41:13.535",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "6",
+      "object_repr": "Текущий заказ: 6",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+      "action_time": "2022-01-28T23:41:13.612",
+      "user": 1,
+      "content_type": 16,
+      "object_id": "5",
+      "object_repr": "Текущий заказ: 5",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+      "action_time": "2022-01-31T20:15:34.737",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Красный стул",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u0442\\u043e\\u0432\\u0430\\u0440\\u0430 \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+      "action_time": "2022-01-31T20:15:48.553",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Красный стул",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u0442\\u043e\\u0432\\u0430\\u0440\\u0430 \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+      "action_time": "2022-01-31T20:17:57.927",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Красный стул",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u0442\\u043e\\u0432\\u0430\\u0440\\u0430 \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+      "action_time": "2022-02-08T20:37:15.002",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Часы",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u0442\\u043e\\u0432\\u0430\\u0440\\u0430 \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+      "action_time": "2022-02-08T20:37:39.482",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Часы",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u043b\\u043b\\u0438\\u0447\\u0435\\u0441\\u0442\\u0432\\u043e \\u0442\\u043e\\u0432\\u0430\\u0440\\u0430 \\u043d\\u0430 \\u0441\\u043a\\u043b\\u0430\\u0434\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+      "action_time": "2022-02-12T21:19:44.949",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "1",
+      "object_repr": "Классика",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Is deleted\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+      "action_time": "2022-02-12T21:20:04.374",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "1",
+      "object_repr": "Классика",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Is deleted\"]}}]"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "7o0en9vqteji3fawfthhi3n2r3py5sue",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGln-xSyU9JzBWu9ucAA5UpxUiLuDpRRQPenNaF4q4baWtDVZ0sTqrKw6_H4Z6SG1A75jvc2a5rouU9Zd0Ttt-jqzPC-7-xco2ErPGhIPgQUQaHDZWPBObBxO3_HBkXHRRmCKxMDjGI4ojMaTQQMZrHp_ANK6N7w:1nFP18:-ZzyQVF5FDDVpbkBTSH2n-nMscP2nvIHvo9sBWa8CoA",
+      "expire_date": "2022-02-17T02:26:26.921"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "9r6tbgi56e4ezhw7di52rxu15lje4vd6",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGln-xSyU9JzBWu9ucAA5UpxUiLuDpRRQPenNaF4q4baWtDVZ0sTqrKw6_H4Z6SG1A75jvc2a5rouU9Zd0Ttt-jqzPC-7-xco2ErPGhIPgQUQaHDZWPBObBxO3_HBkXHRRmCKxMDjGI4ojMaTQQMZrHp_ANK6N7w:1nKlFx:c-PeDA_iMJewiK_5oZq_ZBQZ3aaIl92TtAkjw-cl23I",
+      "expire_date": "2022-03-03T21:11:53.774"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "f2lxobofbvrr7wpx2iwpuu4l4bn6fur3",
+    "fields": {
+      "session_data": ".eJxVjDEOwjAMRe-SGUWOEurAyM4ZKsd2SAElUtNOiLtDpQ6w_vfef5mR1qWMa9d5nMSczWAOv1sifmjdgNyp3prlVpd5SnZT7E67vTbR52V3_w4K9fKtMykNGENwCQA5nXKiI3hiF0nFE2aW4MF7ZD8IighGzRxFMYMDMO8PDDQ45w:1mhGtQ:32_xPr3ZqOnPdVJRk_TxqnjJUWrXMzMj0e-ilX4cv_E",
+      "expire_date": "2021-11-14T22:53:24.332"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "ft83zkjk3lkxnawbgvk8etfuvn102l8i",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGln-xSyU9JzBWu9ucAA5UpxUiLuDpRRQPenNaF4q4baWtDVZ0sTqrKw6_H4Z6SG1A75jvc2a5rouU9Zd0Ttt-jqzPC-7-xco2ErPGhIPgQUQaHDZWPBObBxO3_HBkXHRRmCKxMDjGI4ojMaTQQMZrHp_ANK6N7w:1n9mrr:LWlOrBvXgc_Q_tGhCOPIRInbWG7bVXmv-D2yUPvkyS4",
+      "expire_date": "2022-02-01T14:41:39.230"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "oe5r3nbv2w6m2pcj4fneup550ysplxhk",
+    "fields": {
+      "session_data": ".eJxVjMsOgjAURP-la9PcAqWtS_d8Q3MfxaKmJBRWxn8XEha6mmTOmXmriNua41bTEidRV2VAXX5LQn6mchB5YLnPmueyLhPpQ9EnrXqYJb1up_t3kLHmfd2FwITeAVBybMU2yZB4Ciw9jSOhoTa0aBEcsIPOeeKmD9biHlZEfb4mCji8:1n86ie:aPLHOKh18nyC-uVZv__t2EJhYKL_OtzOSe77-vRyEGc",
+      "expire_date": "2022-01-27T23:29:12.160"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "vl260pp78dgiww4ik7bm33wf1r2h7y4a",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGln-xSyU9JzBWu9ucAA5UpxUiLuDpRRQPenNaF4q4baWtDVZ0sTqrKw6_H4Z6SG1A75jvc2a5rouU9Zd0Ttt-jqzPC-7-xco2ErPGhIPgQUQaHDZWPBObBxO3_HBkXHRRmCKxMDjGI4ojMaTQQMZrHp_ANK6N7w:1mv3A1:nVNeQLD7oOi3zioqUfylV-YSJtjv0A2AmpX8kRgMt9o",
+      "expire_date": "2021-12-22T23:03:29.357"
+    }
+  },
+  {
+    "model": "mainapp.productcategory",
+    "pk": 1,
+    "fields": {
+      "name": "Классика",
+      "href": "",
+      "description": "",
+      "created": "2021-10-06T01:54:48.979",
+      "updated": "2022-02-12T21:20:04.306",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.productcategory",
+    "pk": 2,
+    "fields": {
+      "name": "Модерн",
+      "href": "",
+      "description": "",
+      "created": "2021-10-06T01:54:49.083",
+      "updated": "2021-10-06T01:54:49.083",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.productcategory",
+    "pk": 3,
+    "fields": {
+      "name": "Офис",
+      "href": "",
+      "description": "",
+      "created": "2021-10-06T01:54:49.171",
+      "updated": "2021-10-06T01:54:49.171",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.productcategory",
+    "pk": 4,
+    "fields": {
+      "name": "Дом",
+      "href": "",
+      "description": "",
+      "created": "2021-10-06T01:54:49.261",
+      "updated": "2021-10-25T03:08:39.762",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 1,
+    "fields": {
+      "category": 4,
+      "name": "Красный стул",
+      "image": "product_images/controll2.jpg",
+      "short_desc": "Уникальный дизайн",
+      "description": "",
+      "price": "3500.00",
+      "quantity": 83,
+      "created": "2021-10-06T01:54:49.391",
+      "updated": "2022-02-17T21:13:15.343",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 2,
+    "fields": {
+      "category": 2,
+      "name": "Кресло из белой кожи",
+      "image": "product_images/product-21.jpg",
+      "short_desc": "Красивое кресло",
+      "description": "",
+      "price": "6700.00",
+      "quantity": 75,
+      "created": "2021-10-06T01:54:49.496",
+      "updated": "2022-01-31T23:34:24.294",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 3,
+    "fields": {
+      "category": 3,
+      "name": "Лампа-сфера",
+      "image": "product_images/product-1.jpg",
+      "short_desc": "Удобная лампа для офиса",
+      "description": "",
+      "price": "5300.00",
+      "quantity": 37,
+      "created": "2021-10-06T01:54:49.622",
+      "updated": "2022-01-31T23:34:47.927",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 4,
+    "fields": {
+      "category": 4,
+      "name": "Синий стул",
+      "image": "product_images/controll1.jpg",
+      "short_desc": "Уникальный дизайн",
+      "description": "",
+      "price": "8500.00",
+      "quantity": 56,
+      "created": "2021-10-06T01:54:49.738",
+      "updated": "2022-01-31T23:34:35.937",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 5,
+    "fields": {
+      "category": 2,
+      "name": "Диван",
+      "image": "product_images/product-3-sm.jpg",
+      "short_desc": "Черный диван",
+      "description": "",
+      "price": "16700.00",
+      "quantity": 56,
+      "created": "2021-10-06T01:54:49.854",
+      "updated": "2022-02-12T19:55:42.348",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 6,
+    "fields": {
+      "category": 1,
+      "name": "Часы",
+      "image": "product_images/product-4-sm.jpg",
+      "short_desc": "Настенные часы",
+      "description": "",
+      "price": "2100.00",
+      "quantity": 50,
+      "created": "2021-10-06T01:54:49.975",
+      "updated": "2022-02-08T20:37:39.409",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 7,
+    "fields": {
+      "category": 1,
+      "name": "Чайник",
+      "image": "product_images/product-3.jpg",
+      "short_desc": "Белый чайник.",
+      "description": "Удобый чайник",
+      "price": "4300.00",
+      "quantity": 89,
+      "created": "2021-10-21T18:55:01.296",
+      "updated": "2022-01-28T23:20:13.470",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 8,
+    "fields": {
+      "category": 4,
+      "name": "Голубой стул",
+      "image": "product_images/controll.jpg",
+      "short_desc": "Уникальный дизайн",
+      "description": "",
+      "price": "3200.00",
+      "quantity": 33,
+      "created": "2021-10-21T18:56:06.021",
+      "updated": "2022-02-03T23:36:23.360",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 9,
+    "fields": {
+      "category": 2,
+      "name": "Столик",
+      "image": "product_images/slider-hotdeal.jpg",
+      "short_desc": "Уникальный дизайн",
+      "description": "",
+      "price": "6000.00",
+      "quantity": 66,
+      "created": "2021-10-21T18:56:43.079",
+      "updated": "2022-01-31T22:41:49.318",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 10,
+    "fields": {
+      "category": 3,
+      "name": "Черная люстра",
+      "image": "product_images/product-5-sm.jpg",
+      "short_desc": "Уникальный дизайн",
+      "description": "",
+      "price": "5000.00",
+      "quantity": 81,
+      "created": "2021-10-21T18:58:17.531",
+      "updated": "2022-01-31T20:56:57.796",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 11,
+    "fields": {
+      "category": 3,
+      "name": "Лампа",
+      "image": "product_images/product-31.jpg",
+      "short_desc": "Удобная лампа",
+      "description": "",
+      "price": "5000.00",
+      "quantity": 20,
+      "created": "2021-10-21T18:58:57.926",
+      "updated": "2022-02-04T00:06:53.994",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "mainapp.product",
+    "pk": 12,
+    "fields": {
+      "category": 1,
+      "name": "Настенная лампа",
+      "image": "product_images/product-2-sm.jpg",
+      "short_desc": "Уникальный дизайн",
+      "description": "Супер крутая настенная лампа",
+      "price": "7610.00",
+      "quantity": 44,
+      "created": "2021-10-21T18:59:36.824",
+      "updated": "2022-01-31T19:55:23.025",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "authapp.shopuser",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$GSnrVbwBE1tfzoYGcLKiYL$hBI86kMenPMEUmVzu5INl6O7QjqIN4YDsNvbMhL4q2g=",
+      "last_login": "2022-02-17T21:11:52.941",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "Админ",
+      "last_name": "",
+      "email": "admin@geekshop.local",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2021-10-06T01:54:50",
+      "avatar": "user_avatars/nhbodz8jlwa9c5xexi05.jpg",
+      "age": 30,
+      "is_deleted": false,
+      "activation_key": "",
+      "activation_key_expires": "2022-01-15T17:48:07.069",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "authapp.shopuser",
+    "pk": 10,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$46D5Br3PSwWdKqJMxWCv1Y$lHweY90eULDtALzaCIGl3dyYADWJuRGlR2wk7IPoctc=",
+      "last_login": "2022-01-13T23:29:12.075",
+      "is_superuser": false,
+      "username": "io",
+      "first_name": "Wisp",
+      "last_name": "",
+      "email": "wisp@mail.ru",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-01-13T22:52:23.099",
+      "avatar": "",
+      "age": 22,
+      "is_deleted": false,
+      "activation_key": "<sha1 HASH object @ 0x04A291E0>",
+      "activation_key_expires": "2022-01-15T22:51:38.389",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "authapp.shopuser",
+    "pk": 11,
+    "fields": {
+      "password": "!t4OsL9YFSoNHgB7ehfTKy0RQAYrm0nwaH0GPM6lR",
+      "last_login": "2022-01-18T14:29:33.499",
+      "is_superuser": false,
+      "username": "r.mcmurphy",
+      "first_name": "Саша",
+      "last_name": "Сайтиев",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-01-18T14:29:32.711",
+      "avatar": "",
+      "age": 18,
+      "is_deleted": false,
+      "activation_key": "",
+      "activation_key_expires": "2022-01-20T14:29:27.133",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "authapp.shopuser",
+    "pk": 12,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$O6KRatm9zLcE5G5nkT4CZr$fQn1LM9Tin65CgcLaZLX/QTlPPBt/OH0PI43uawj/uM=",
+      "last_login": "2022-01-18T14:41:28.324",
+      "is_superuser": false,
+      "username": "qwer",
+      "first_name": "qwer",
+      "last_name": "",
+      "email": "qwer@mail.ru",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-01-18T14:34:55.429",
+      "avatar": "",
+      "age": 18,
+      "is_deleted": false,
+      "activation_key": "<sha1 HASH object @ 0x043FA400>",
+      "activation_key_expires": "2022-01-20T14:29:27.133",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "authapp.shopuserprofile",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "tagline": "",
+      "about_me": "",
+      "gender": ""
+    }
+  },
+  {
+    "model": "authapp.shopuserprofile",
+    "pk": 2,
+    "fields": {
+      "user": 10,
+      "tagline": "",
+      "about_me": "",
+      "gender": ""
+    }
+  },
+  {
+    "model": "authapp.shopuserprofile",
+    "pk": 3,
+    "fields": {
+      "user": 11,
+      "tagline": "",
+      "about_me": "",
+      "gender": ""
+    }
+  },
+  {
+    "model": "authapp.shopuserprofile",
+    "pk": 4,
+    "fields": {
+      "user": 12,
+      "tagline": "",
+      "about_me": "",
+      "gender": ""
+    }
+  },
+  {
+    "model": "basketapp.basket",
+    "pk": 14,
+    "fields": {
+      "user": 10,
+      "product": 10,
+      "quantity": 1,
+      "add_datetime": "2022-01-14T17:40:56.138",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "basketapp.basket",
+    "pk": 26,
+    "fields": {
+      "user": 1,
+      "product": 11,
+      "quantity": 9,
+      "add_datetime": "2022-02-03T23:49:43.678",
+      "is_deleted": false
+    }
+  },
+  {
+    "model": "social_django.usersocialauth",
+    "pk": 1,
+    "fields": {
+      "user": 11,
+      "provider": "vk-oauth2",
+      "uid": "620490146",
+      "extra_data": "{\"auth_time\": 1642505373, \"id\": 620490146, \"expires\": 86400, \"access_token\": \"7f4d31cdf9fb8989c9ad610d3039f19f948328d2bb457965e5feab9889550e3bd952de1f8369ead545863\", \"token_type\": null}",
+      "created": "2022-01-18T14:29:32.817",
+      "modified": "2022-01-18T14:29:33.065"
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 11,
+    "fields": {
+      "user": 1,
+      "created": "2022-01-28T23:41:21.588",
+      "updated": "2022-02-17T21:13:15.717",
+      "status": "FM",
+      "is_active": true
+    }
+  },
+  {
+    "model": "ordersapp.order",
+    "pk": 12,
+    "fields": {
+      "user": 1,
+      "created": "2022-01-31T20:59:38.942",
+      "updated": "2022-01-31T20:59:55.153",
+      "status": "FM",
+      "is_active": false
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 15,
+    "fields": {
+      "order": 11,
+      "product": 10,
+      "quantity": 4
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 21,
+    "fields": {
+      "order": 11,
+      "product": 1,
+      "quantity": 16
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 22,
+    "fields": {
+      "order": 12,
+      "product": 3,
+      "quantity": 2
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 29,
+    "fields": {
+      "order": 11,
+      "product": 5,
+      "quantity": 4
+    }
+  },
+  {
+    "model": "ordersapp.orderitem",
+    "pk": 30,
+    "fields": {
+      "order": 11,
+      "product": 8,
+      "quantity": 3
+    }
+  }
+]
