@@ -13,8 +13,11 @@ from django.core.cache import cache
 from django.views.decorators.cache import cache_page
 from django.views.decorators.cache import never_cache
 
+from django.db import connection
+from django.db.models.signals import pre_save
+from django.dispatch import receiver
 
-@never_cache
+
 def get_links_menu():
     if settings.LOW_CACHE:
         key = 'links_menu'
@@ -153,3 +156,20 @@ def product(request, pk):
     }
 
     return render(request, 'mainapp/product.html', context)
+
+
+def db_profile_by_type(prefix, type, queries):
+    update_queries = list(filter(lambda x: type in x['sql'], queries))
+    print(f'db_profile {type} for {prefix}:')
+    [print(query['sql']) for query in update_queries]
+
+
+@receiver(pre_save, sender=ProductCategory)
+def product_is_active_update_productcategory_save(sender, instance, **kwargs):
+    if instance.pk:
+        if instance.is_deleted:
+            instance.product_set.update(is_deleted=True)
+        else:
+            instance.product_set.update(is_deleted=False)
+
+        db_profile_by_type(sender, 'UPDATE', connection.queries)

@@ -88,7 +88,7 @@ class Product(models.Model):
     )
 
     def __str__(self):
-        return self.name or f"Product with id - {self.pk}"
+        return f'{self.name} ({self.category.name})'
 
     class Meta:
         verbose_name = 'продукт'
